@@ -1,4 +1,5 @@
 Calculator Application
+
 Description
 This is a simple calculator application implemented in Python using the PyQt6 library. The calculator supports basic arithmetic operations, percentage calculations, and parentheses balancing.
 Features
