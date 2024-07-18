@@ -69,3 +69,4 @@ Neat and user-friendly interface with a display area for input and results.
     ```
     pip install -r requirements.txt
     ```
+    
