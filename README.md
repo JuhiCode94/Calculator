@@ -53,7 +53,7 @@ Neat and user-friendly interface with a display area for input and results.
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.11.4
 - PyQt6 library
 
 ## How to Run
