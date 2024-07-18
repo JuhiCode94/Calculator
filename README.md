@@ -57,6 +57,15 @@ Neat and user-friendly interface with a display area for input and results.
 - PyQt6 library
 
 ## How to Run
+**Create a virtual environment and activate it:**
 
-1. Install PyQt6 using `pip install PyQt6`.
-2. Run the application using `python calculator.py`.
+    ```
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+**Install the required packages:**
+
+    ```
+    pip install -r requirements.txt
+    ```
